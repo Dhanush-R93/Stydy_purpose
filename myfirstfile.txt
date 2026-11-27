@@ -1,3 +1,4 @@
 It is first content from remote github.
-Content modified from local
+Content modified from local.
 Again modified file in Local repo.
+Again modified file in remote repo.
