@@ -1,4 +1,4 @@
-It is first content from remote github.
+It is first content from remote github Hello bro.
 Content modified from local.
 Again modified file in Local repo.
 Again modified file in remote repo.
