@@ -1,1 +1,2 @@
-It is first content from remote github
+It is first content from remote github.
+Content modified from local
